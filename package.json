@@ -1,0 +1,20 @@
+{
+  "name": "myhomework",
+  "version": "1.0.0",
+  "description": "first demo for api",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "bioz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "save-dev": "0.0.1-security"
+  }
+}
